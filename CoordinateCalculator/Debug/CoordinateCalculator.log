@@ -1,0 +1,14 @@
+﻿  CoordinateCalculator.cpp
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(118,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(118,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(119,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(119,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(137,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(138,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(167,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(167,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(168,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(168,12): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(130,10): warning C4101: 'quadrant': unreferenced local variable
+C:\Users\OEM\source\repos\CoordinateCalculator\CoordinateCalculator\CoordinateCalculator.cpp(75): warning C4715: 'plot': not all control paths return a value
+  CoordinateCalculator.vcxproj -> C:\Users\OEM\source\repos\CoordinateCalculator\Debug\CoordinateCalculator.exe
